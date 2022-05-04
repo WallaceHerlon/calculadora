@@ -17,5 +17,5 @@ Projeto criado para colocar os conceitos em prática de React.
 
 * Este projeto foi construído durante ás aulas Udemy Cod3r.
 
-<img src="img/calculadora_foto.png">
+<img src="src/img/calculadora_foto.png">
 
